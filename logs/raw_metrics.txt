@@ -1,0 +1,5 @@
+--- SDAG INTERNAL REGULATION RESULT ---
+Response: "It is still the same ship."
+Tokens Generated: 9
+Total Time: 7438.8861 ms
+Latency: 826.54 ms/token
